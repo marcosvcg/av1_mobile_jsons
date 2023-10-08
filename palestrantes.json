@@ -1,26 +1,20 @@
 [
    {
-      "_id":-1595774236,
-      "nomeAtividade":"JP: Jornada de Pesquisa",
-      "descricaoAtividade":"A Jornada de Pesquisa tem como objetivo proporcionar uma oportunidade para exposicao e discussao dos trabalhos de alunos",
-      "enderecoDaImagem":"https://img.freepik.com/vetores-premium/lupa-realista-de-pesquisa-cientifica-com-vetor-de-conceito-de-icone-de-linha-fina_269504-1832.jpg?w\u003d740"
+      "_id":-292043118,
+      "nome":"Mario Jorge Pereira",
+      "historicoProfissional":"Professor da disciplina de Programacao para Dispositivos Moveis da UCSal",
+      "enderecoDaImagem":"https://avatars.githubusercontent.com/u/554178?v\u003d4"
    },
    {
-      "_id":316253473,
-      "nomeAtividade":"MR: Mesa Redonda",
-      "descricaoAtividade":"Esse tipo de evento tem por objetivo promover o debate e levantar questionamentos acerca de um tema. Por isso, o assunto debatido costuma ser polemico e de interesse publico. Na mesa redonda, a participacao do publico e bastante ativa.",
-      "enderecoDaImagem":"https://www.infoescola.com/wp-content/uploads/2013/04/mesa-redonda_269914853.jpg"
+      "_id":390904465,
+      "nome":"Osvaldo Requiao",
+      "historicoProfissional":"Coordenador da Escola de Tecnologia da UCSal",
+      "enderecoDaImagem":"https://i.ytimg.com/vi/bFp8ynPsYjo/sddefault_live.jpg"
    },
    {
-      "_id":-23803682,
-      "nomeAtividade":"BP: Bate Papo",
-      "descricaoAtividade":"O Bate Papo Academico foi criado com o objetivo de promover uma maior integracao entre estudantes e professores. Assim, seu objetivo e promover uma aproximacao fora da sala de aula entre coordenadores, professores, mestres, mestrandos e alunos para que esses venham a conhecer melhor a trajetoria, interesses, e respectivas opinioes acerca do curso, para os convidados ministrantes",
-      "enderecoDaImagem":"https://petpol.files.wordpress.com/2010/08/bpaca.jpg?w\u003d232\u0026h\u003d299\u0026crop\u003d1"
-   },
-   {
-      "_id":-669086625,
-      "nomeAtividade":"PSC: Programacao Sessoes Cientificas",
-      "descricaoAtividade":"As apresentacoes e noticias da programacao das Sessoes Cientificas sao um espaco destinado ao compartilhamento de conhecimentos de temas abordados por pesquisadores e alunos da universidade assim como por convidados de outras instituicoes.",
-      "enderecoDaImagem":"https://static.vecteezy.com/ti/vetor-gratis/p1/19598607-ilustracao-em-icone-de-cor-filosofia-pensador-vetor.jpg"
+      "_id":51378291,
+      "nome":"Eric Adam",
+      "historicoProfissional":"Vencedor do Hackathon SprintUCSal com o tema de Inteligencia Artificial",
+      "enderecoDaImagem":"https://instagram.fssa2-1.fna.fbcdn.net/v/t51.2885-19/368573415_2294549070736474_2449751136672434813_n.jpg?stp\u003ddst-jpg_s150x150\u0026_nc_ht\u003dinstagram.fssa2-1.fna.fbcdn.net\u0026_nc_cat\u003d110\u0026_nc_ohc\u003d6-5QtN_6AEYAX_4MyLC\u0026edm\u003dACWDqb8BAAAA\u0026ccb\u003d7-5\u0026oh\u003d00_AfDWw7BziSme2fn3SYWKdyqiIKje6xbaj0zbnTmqqGa9WQ\u0026oe\u003d6525FC00\u0026_nc_sid\u003dee9879"
    }
 ]
