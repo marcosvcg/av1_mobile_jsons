@@ -1,0 +1,26 @@
+[
+   {
+      "_id":-1595774236,
+      "nomeAtividade":"JP: Jornada de Pesquisa",
+      "descricaoAtividade":"A Jornada de Pesquisa tem como objetivo proporcionar uma oportunidade para exposicao e discussao dos trabalhos de alunos",
+      "enderecoDaImagem":"https://img.freepik.com/vetores-premium/lupa-realista-de-pesquisa-cientifica-com-vetor-de-conceito-de-icone-de-linha-fina_269504-1832.jpg?w\u003d740"
+   },
+   {
+      "_id":316253473,
+      "nomeAtividade":"MR: Mesa Redonda",
+      "descricaoAtividade":"Esse tipo de evento tem por objetivo promover o debate e levantar questionamentos acerca de um tema. Por isso, o assunto debatido costuma ser polemico e de interesse publico. Na mesa redonda, a participacao do publico e bastante ativa.",
+      "enderecoDaImagem":"https://www.infoescola.com/wp-content/uploads/2013/04/mesa-redonda_269914853.jpg"
+   },
+   {
+      "_id":-23803682,
+      "nomeAtividade":"BP: Bate Papo",
+      "descricaoAtividade":"O Bate Papo Academico foi criado com o objetivo de promover uma maior integracao entre estudantes e professores. Assim, seu objetivo e promover uma aproximacao fora da sala de aula entre coordenadores, professores, mestres, mestrandos e alunos para que esses venham a conhecer melhor a trajetoria, interesses, e respectivas opinioes acerca do curso, para os convidados ministrantes",
+      "enderecoDaImagem":"https://petpol.files.wordpress.com/2010/08/bpaca.jpg?w\u003d232\u0026h\u003d299\u0026crop\u003d1"
+   },
+   {
+      "_id":-669086625,
+      "nomeAtividade":"PSC: Programacao Sessoes Cientificas",
+      "descricaoAtividade":"As apresentacoes e noticias da programacao das Sessoes Cientificas sao um espaco destinado ao compartilhamento de conhecimentos de temas abordados por pesquisadores e alunos da universidade assim como por convidados de outras instituicoes.",
+      "enderecoDaImagem":"https://static.vecteezy.com/ti/vetor-gratis/p1/19598607-ilustracao-em-icone-de-cor-filosofia-pensador-vetor.jpg"
+   }
+]

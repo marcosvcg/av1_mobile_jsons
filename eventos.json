@@ -1,0 +1,149 @@
+[
+   {
+      "_id":1935190312,
+      "titulo":"A Area de TI em 2023",
+      "descricao":"Debate sobre a situacao da area de TI, levantando temas sobre as dificuldades e facilidades de adentrar no mercado, o que as empresas estao esperando dos desenvolvedores hoje em dia e etc.",
+      "enderecoDaImagem":"https://viacarreira.com/wp-content/uploads/2018/12/areas-de-ti-em-alta.png",
+      "tipoDeAtividade":{
+         "_id":-330847013,
+         "nomeAtividade":"PSC: Programacao Sessoes Cientificas",
+         "descricaoAtividade":"As apresentacoes e noticias da programacao das Sessoes Cientificas sao um espaco destinado ao compartilhamento de conhecimentos de temas abordados por pesquisadores e alunos da universidade assim como por convidados de outras instituicoes.",
+         "enderecoDaImagem":"https://static.vecteezy.com/ti/vetor-gratis/p1/19598607-ilustracao-em-icone-de-cor-filosofia-pensador-vetor.jpg"
+      },
+      "local":"Campus de Pituacu, Auditorio da Pos-Graduacao",
+      "data":"23/10",
+      "horario":"07:00h - 10:00h",
+      "palestrante":{
+         "_id":589212999,
+         "nome":"Mario Jorge Pereira",
+         "historicoProfissional":"Professor da disciplina de Programacao para Dispositivos Moveis da UCSal",
+         "enderecoDaImagem":"https://avatars.githubusercontent.com/u/554178?v\u003d4"
+      }
+   },
+   {
+      "_id":-1082224097,
+      "titulo":"Minicurso de Java para Iniciantes",
+      "descricao":"Estudantes de TI da UCSal ensinam a linguagem de programacao Java para os interessados nesse minicurso, abrangindo Logica de Programacao, Programacao Orientada a Objetos e Spring Boot.",
+      "enderecoDaImagem":"https://img.ibxk.com.br/2022/10/03/03194437073399.jpg?ims\u003d704x",
+      "tipoDeAtividade":{
+         "_id":817232279,
+         "nomeAtividade":"JP: Jornada de Pesquisa",
+         "descricaoAtividade":"A Jornada de Pesquisa tem como objetivo proporcionar uma oportunidade para exposicao e discussao dos trabalhos de alunos",
+         "enderecoDaImagem":"https://img.freepik.com/vetores-premium/lupa-realista-de-pesquisa-cientifica-com-vetor-de-conceito-de-icone-de-linha-fina_269504-1832.jpg?w\u003d740"
+      },
+      "local":"Campus de Pituacu, Bloco B, LAMI 1",
+      "data":"24/10",
+      "horario":"09:40h - 12:30h",
+      "palestrante":{
+         "_id":589212999,
+         "nome":"Mario Jorge Pereira",
+         "historicoProfissional":"Professor da disciplina de Programacao para Dispositivos Moveis da UCSal",
+         "enderecoDaImagem":"https://avatars.githubusercontent.com/u/554178?v\u003d4"
+      }
+   },
+   {
+      "_id":-429333555,
+      "titulo":"BusUCSal",
+      "descricao":"Exposicao do aplicativo para monitoramento da localizacao do BusUCSal, feito pelos estudantes de TI da UCSal atraves da Fabrica de Software.",
+      "enderecoDaImagem":"https://4.bp.blogspot.com/---W82VxtXj0/WvoBYdMpcbI/AAAAAAABAKY/6uq1Cgi2I_4fT8btcCiQ5EY0oq4IPMpggCLcBGAs/s640/16203d48-a466-4153-9563-a1dfa0fe6a2d.jpg",
+      "tipoDeAtividade":{
+         "_id":915494983,
+         "nomeAtividade":"MR: Mesa Redonda",
+         "descricaoAtividade":"Esse tipo de evento tem por objetivo promover o debate e levantar questionamentos acerca de um tema. Por isso, o assunto debatido costuma ser polemico e de interesse publico. Na mesa redonda, a participacao do publico e bastante ativa.",
+         "enderecoDaImagem":"https://www.infoescola.com/wp-content/uploads/2013/04/mesa-redonda_269914853.jpg"
+      },
+      "local":"Campus de Pituacu, Auditorio da Pos-Graduacao",
+      "data":"25/10",
+      "horario":"14:00h - 16:00h",
+      "palestrante":{
+         "_id":589212999,
+         "nome":"Mario Jorge Pereira",
+         "historicoProfissional":"Professor da disciplina de Programacao para Dispositivos Moveis da UCSal",
+         "enderecoDaImagem":"https://avatars.githubusercontent.com/u/554178?v\u003d4"
+      }
+   },
+   {
+      "_id":-2128194376,
+      "titulo":"O curso de Engenharia de Software da UCSal",
+      "descricao":"Conversa com o coordenador dos cursos de TI da UCSal a respeito do curso de Engenharia de Software, sua grade, professores e como ele prepara os estudantes para o mercado de trabalho.",
+      "enderecoDaImagem":"https://i0.wp.com/kenzie.com.br/blog/wp-content/uploads/2021/07/kenzie_blog_software.png?fit\u003d1200%2C630\u0026ssl\u003d1",
+      "tipoDeAtividade":{
+         "_id":-612534769,
+         "nomeAtividade":"BP: Bate Papo",
+         "descricaoAtividade":"O Bate Papo Academico foi criado com o objetivo de promover uma maior integracao entre estudantes e professores. Assim, seu objetivo e promover uma aproximacao fora da sala de aula entre coordenadores, professores, mestres, mestrandos e alunos para que esses venham a conhecer melhor a trajetoria, interesses, e respectivas opinioes acerca do curso, para os convidados ministrantes",
+         "enderecoDaImagem":"https://petpol.files.wordpress.com/2010/08/bpaca.jpg?w\u003d232\u0026h\u003d299\u0026crop\u003d1"
+      },
+      "local":"Campus de Pituacu, Auditorio da Pos-Graduacao",
+      "data":"26/10",
+      "horario":"08:00h - 10:00h",
+      "palestrante":{
+         "_id":210515397,
+         "nome":"Osvaldo Requiao",
+         "historicoProfissional":"Coordenador da Escola de Tecnologia da UCSal",
+         "enderecoDaImagem":"https://i.ytimg.com/vi/bFp8ynPsYjo/sddefault_live.jpg"
+      }
+   },
+   {
+      "_id":-1549218254,
+      "titulo":"O curso de Analise e Desenvolvimento de Sistemas da UCSal",
+      "descricao":"Conversa com o coordenador dos cursos de TI da UCSal a respeito do curso de Analise e Desenvolvimento de Sistemas, abordando sua grade, professores e como ele prepara os estudantes para o mercado de trabalho.",
+      "enderecoDaImagem":"https://i0.wp.com/kenzie.com.br/blog/wp-content/uploads/2021/09/kenzie_blog_sistemas.png?fit\u003d1200%2C630\u0026ssl\u003d1",
+      "tipoDeAtividade":{
+         "_id":-612534769,
+         "nomeAtividade":"BP: Bate Papo",
+         "descricaoAtividade":"O Bate Papo Academico foi criado com o objetivo de promover uma maior integracao entre estudantes e professores. Assim, seu objetivo e promover uma aproximacao fora da sala de aula entre coordenadores, professores, mestres, mestrandos e alunos para que esses venham a conhecer melhor a trajetoria, interesses, e respectivas opinioes acerca do curso, para os convidados ministrantes",
+         "enderecoDaImagem":"https://petpol.files.wordpress.com/2010/08/bpaca.jpg?w\u003d232\u0026h\u003d299\u0026crop\u003d1"
+      },
+      "local":"Campus de Pituacu, Auditorio da Pos-Graduacao",
+      "data":"26/10",
+      "horario":"10:00h - 12:00h",
+      "palestrante":{
+         "_id":210515397,
+         "nome":"Osvaldo Requiao",
+         "historicoProfissional":"Coordenador da Escola de Tecnologia da UCSal",
+         "enderecoDaImagem":"https://i.ytimg.com/vi/bFp8ynPsYjo/sddefault_live.jpg"
+      }
+   },
+   {
+      "_id":-1011151989,
+      "titulo":"O futuro das IAs",
+      "descricao":"Debate com profissionais da area de TI sobre como as inteligencias artificiais afetam a socieade em que vivemos, seus impactos positivos, negativos e a revolucao que ela causou.",
+      "enderecoDaImagem":"https://www.agbcomputadores.com.br/admin/arquivos/blog/4.4_07_2023_16_35_53.png",
+      "tipoDeAtividade":{
+         "_id":915494983,
+         "nomeAtividade":"MR: Mesa Redonda",
+         "descricaoAtividade":"Esse tipo de evento tem por objetivo promover o debate e levantar questionamentos acerca de um tema. Por isso, o assunto debatido costuma ser polemico e de interesse publico. Na mesa redonda, a participacao do publico e bastante ativa.",
+         "enderecoDaImagem":"https://www.infoescola.com/wp-content/uploads/2013/04/mesa-redonda_269914853.jpg"
+      },
+      "local":"Campus de Pituacu, Auditorio da Pos-Graduacao",
+      "data":"27/10",
+      "horario":"15:00h - 17:30h",
+      "palestrante":{
+         "_id":1926623864,
+         "nome":"Eric Adam",
+         "historicoProfissional":"Vencedor do Hackathon SprintUCSal com o tema de Inteligencia Artificial",
+         "enderecoDaImagem":"https://instagram.fssa2-1.fna.fbcdn.net/v/t51.2885-19/368573415_2294549070736474_2449751136672434813_n.jpg?stp\u003ddst-jpg_s150x150\u0026_nc_ht\u003dinstagram.fssa2-1.fna.fbcdn.net\u0026_nc_cat\u003d110\u0026_nc_ohc\u003d6-5QtN_6AEYAX_4MyLC\u0026edm\u003dACWDqb8BAAAA\u0026ccb\u003d7-5\u0026oh\u003d00_AfDWw7BziSme2fn3SYWKdyqiIKje6xbaj0zbnTmqqGa9WQ\u0026oe\u003d6525FC00\u0026_nc_sid\u003dee9879"
+      }
+   },
+   {
+      "_id":557649002,
+      "titulo":"Automacao com Python e sua importancia",
+      "descricao":"Uma palestra aliada a praticas expositivas sobre como a tecnologia facilitou a automacao de tarefas repetitivas atraves da programacao com Python, sua importancia e sua alta demanda para diversas areas no mercado de trabalho atual.",
+      "enderecoDaImagem":"https://dojo.bylearn.com.br/wp-content/uploads/2020/08/dojo-15.png",
+      "tipoDeAtividade":{
+         "_id":-330847013,
+         "nomeAtividade":"PSC: Programacao Sessoes Cientificas",
+         "descricaoAtividade":"As apresentacoes e noticias da programacao das Sessoes Cientificas sao um espaco destinado ao compartilhamento de conhecimentos de temas abordados por pesquisadores e alunos da universidade assim como por convidados de outras instituicoes.",
+         "enderecoDaImagem":"https://static.vecteezy.com/ti/vetor-gratis/p1/19598607-ilustracao-em-icone-de-cor-filosofia-pensador-vetor.jpg"
+      },
+      "local":"Campus de Pituacu, Bloco B, LAMI 1",
+      "data":"28/10",
+      "horario":"09:30h - 12:30h",
+      "palestrante":{
+         "_id":1926623864,
+         "nome":"Eric Adam",
+         "historicoProfissional":"Vencedor do Hackathon SprintUCSal com o tema de Inteligencia Artificial",
+         "enderecoDaImagem":"https://instagram.fssa2-1.fna.fbcdn.net/v/t51.2885-19/368573415_2294549070736474_2449751136672434813_n.jpg?stp\u003ddst-jpg_s150x150\u0026_nc_ht\u003dinstagram.fssa2-1.fna.fbcdn.net\u0026_nc_cat\u003d110\u0026_nc_ohc\u003d6-5QtN_6AEYAX_4MyLC\u0026edm\u003dACWDqb8BAAAA\u0026ccb\u003d7-5\u0026oh\u003d00_AfDWw7BziSme2fn3SYWKdyqiIKje6xbaj0zbnTmqqGa9WQ\u0026oe\u003d6525FC00\u0026_nc_sid\u003dee9879"
+      }
+   }
+]
